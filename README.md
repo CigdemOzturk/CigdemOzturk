@@ -1,4 +1,4 @@
-# Hi there I'm Cigdem 👋 
+# Hi there I'm Çiğdem 👋 
 
 ## 👀 Where to find me
 
