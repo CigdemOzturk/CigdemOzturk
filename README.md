@@ -3,11 +3,11 @@
 ### I'm 
 ##### passionate about technology 👩‍💻
 ##### keen to learn more and more about all aspects of life 👩‍🏫
-## well organised 🗂
-## good communicator 🗣
-## enthusiastic 💁‍♀️
-## proactive 🧏‍♀️
-## caring 💜
+##### well organised 🗂
+##### good communicator 🗣
+##### enthusiastic 💁‍♀️
+##### proactive 🧏‍♀️
+##### caring 💜
 
 ## 👀 Where to find me
 
