@@ -10,8 +10,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Cigdem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cigdem-ozturk) 
 </div>
-
-<br clear="left"/>
+  
 <br clear="left"/>
   
 # Tech Stack
@@ -31,8 +30,3 @@
 <img align="left" alt="jest" src ="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
 <img alt="cypress" src ="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
 <img align="left" alt="postman" src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-
-
-<br/>
-<br/>
-
