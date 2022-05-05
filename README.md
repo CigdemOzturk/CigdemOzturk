@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="200"/>
   <b><align="right"> Hi there I'm Çiğdem 👋
   </div>
-  <div align="right">
+  <div align="topright">
    <b> Hi there I'm Çiğdem 👋
  </div>
 
