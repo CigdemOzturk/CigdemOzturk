@@ -1,5 +1,5 @@
 <div id="header">
- <div align="left">
+ <div display="flexbox" align="left">
   <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="200"/>
    <div align="right">
   <b> Hi there I'm Çiğdem 👋
