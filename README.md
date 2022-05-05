@@ -15,7 +15,6 @@
  <h2>Tech Stack
 </div>
 
-<div align="right">
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
@@ -27,4 +26,4 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-white?style=flat-square&logo=netlify)
 ![Cypress](https://img.shields.io/badge/-Cypress-darkblue?style=flat-square&logo=cypress)
-</div>
+
