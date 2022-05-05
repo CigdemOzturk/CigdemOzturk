@@ -1,8 +1,8 @@
 <div id="header">
- <div align="left">
+ <div float="left">
   <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="200"/>
   </div>
-  <div align="right">
+  <div float="right">
    <b> Hi there I'm Çiğdem 👋
  </div>
 </div>
