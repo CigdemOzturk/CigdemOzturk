@@ -1,9 +1,9 @@
 <div id="header">
- <div display="flexbox" align="left">
+ <div align="left">
   <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="200"/>
-   <div align="right">
-  <b> Hi there I'm Çiğdem 👋
- </div>
+  </div>
+  <div align="right">
+   <b> Hi there I'm Çiğdem 👋
  </div>
 </div>
 
