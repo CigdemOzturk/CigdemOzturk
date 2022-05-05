@@ -10,9 +10,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Cigdem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cigdem-ozturk) 
 </div>
-  
-  </br>
-  
+    
 # Tech Stack
 
 <img align="left" alt="javascript" src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
