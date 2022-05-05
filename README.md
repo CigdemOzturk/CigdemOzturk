@@ -3,6 +3,8 @@
 
 #### I'm passionate about technology 👩‍💻 || keen to learn more and more about all aspects of life 👩‍🏫 || well organised 🗂 || good communicator 🗣 || enthusiastic 💁‍♀️ || proactive 🧏‍♀️ || caring 💜
 
+<br clear="left"/>
+  
 # Tech Stack
 
 <img align="left" alt="javascript" src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
