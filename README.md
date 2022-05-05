@@ -1,13 +1,11 @@
 <div id="header">
  <div align="left">
   <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="200"/>
- </div>
- <div align="right">
+   <div align="right">
   <b> Hi there I'm Çiğdem 👋
  </div>
+ </div>
 </div>
-
-# Hi there I'm Çiğdem 👋
 
 #### I'm passionate about technology 👩‍💻 || keen to learn more and more about all aspects of life 👩‍🏫 || well organised 🗂 || good communicator 🗣 || enthusiastic 💁‍♀️ || proactive 🧏‍♀️ || caring 💜
 
