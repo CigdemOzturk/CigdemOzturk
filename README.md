@@ -13,7 +13,8 @@
     
 ## Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-purple?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
