@@ -4,6 +4,7 @@
 #### I'm passionate about technology 👩‍💻 || keen to learn more and more about all aspects of life 👩‍🏫 || well organised 🗂 || good communicator 🗣 || enthusiastic 💁‍♀️ || proactive 🧏‍♀️ || caring 💜
 
 <br clear="left"/>
+<br clear="left"/>
   
 # Tech Stack
 
