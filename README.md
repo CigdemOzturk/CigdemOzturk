@@ -1,6 +1,7 @@
-  <img align="left" src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="200"/>
-  <br clear="left"/>
-  <b><align="right"> Hi there I'm Çiğdem 👋
+<img align="left" src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="200"/>
+<div align="right">
+  <b>Hi there I'm Çiğdem 👋
+</div>
 
 #### I'm passionate about technology 👩‍💻 || keen to learn more and more about all aspects of life 👩‍🏫 || well organised 🗂 || good communicator 🗣 || enthusiastic 💁‍♀️ || proactive 🧏‍♀️ || caring 💜
 
