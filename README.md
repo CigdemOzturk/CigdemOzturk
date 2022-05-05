@@ -4,7 +4,12 @@
 </div>
 <div align="right">
   <h4>I'm passionate about technology 👩‍💻 || keen to learn more and more about all aspects of life 👩‍🏫 || well organised 🗂 || good communicator 🗣 || enthusiastic 💁‍♀️ || proactive 🧏‍♀️ || caring 💜
-    </div>
+</div>
+<div align="right">
+  <h4> 👀 Where to find me
+
+[![Linkedin Badge](https://img.shields.io/badge/-Cigdem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cigdem-ozturk) 
+</div>
 
 <br clear="left"/>
 <br clear="left"/>
@@ -31,6 +36,3 @@
 <br/>
 <br/>
 
-## 👀 Where to find me
-
-[![Linkedin Badge](https://img.shields.io/badge/-Cigdem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cigdem-ozturk) 
