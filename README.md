@@ -1,7 +1,7 @@
- <div float="left">
+ <div align="left">
   <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="200"/>
   </div>
-  <div float="right">
+  <div align="right">
    <b> Hi there I'm Çiğdem 👋
  </div>
 
