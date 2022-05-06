@@ -27,4 +27,5 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-white?style=flat-square&logo=netlify)
 ![Cypress](https://img.shields.io/badge/-Cypress-darkblue?style=flat-square&logo=cypress)
 ![Jest](https://img.shields.io/badge/-Jest-red?style=flat-square&logo=jest)
+![Postman](https://img.shields.io/badge/-Postman-white?style=flat-square&logo=postman)
 
