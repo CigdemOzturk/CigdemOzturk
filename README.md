@@ -7,7 +7,7 @@
 </div>
 <div align="right">
   <h4> 👀 Where to find me
-
+    </br>
 [![Linkedin Badge](https://img.shields.io/badge/-Cigdem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cigdem-ozturk) 
 </div>
 
