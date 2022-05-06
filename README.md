@@ -26,4 +26,5 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-white?style=flat-square&logo=netlify)
 ![Cypress](https://img.shields.io/badge/-Cypress-darkblue?style=flat-square&logo=cypress)
+![Jest](https://img.shields.io/badge/-Jest-red?style=flat-square&logo=jest)
 
